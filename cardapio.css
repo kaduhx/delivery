@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    background-color: #e12f16;
+    width: 213vh;
+}
+.divabs{color: white;
+    padding: 20px;
+    background-color: red;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 550px;
+    border-radius: 45px;
+}
+.divcardapio1{
+    padding-top: 20px;
+}
+main{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+    height: 150vh;
+    background-color: #FEFFC3;
+    display: block;
+    padding-left: 50px;
+}
+.abs{
+    margin-left: 750px;
+    margin-top: -670px;
+    position: absolute;
+}
+button{
+    padding: 20px;
+    border: none;
+    color: white;
+    background-color: #e12f16;
+}
+.refri{
+    padding-top: 15px;
+}
+footer{
+    margin-left: 800px;
+    margin-top: -970px;
+    position: absolute;
+}

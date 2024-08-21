@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    background-color: #e12f16;
+    width: 213vh;
+}
+main{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #FEFFC3;
+}
+footer{
+    background-color: #FEFFC3;
+    padding-top: 45px;
+    gap: 150px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+button{
+    color: white;
+    padding: 15px;
+    background-color: #3AA308;
+    border: none;
+}
